@@ -1,0 +1,23 @@
+C:\Users\mende\Desktop\SE Project\SE Project\bin\Debug\SE Project.exe.config
+C:\Users\mende\Desktop\SE Project\SE Project\bin\Debug\SE Project.exe
+C:\Users\mende\Desktop\SE Project\SE Project\bin\Debug\SE Project.pdb
+C:\Users\mende\Desktop\SE Project\SE Project\bin\Debug\SE Project.xml
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE Project.vbprojResolveAssemblyReference.cache
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.Resources.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE Project.vbproj.GenerateResource.Cache
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE Project.exe
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE Project.xml
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE Project.pdb
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.loginPage.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.seForm.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.student1Form.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.myGradesForm.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.machineForm.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.Form6.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.student2Form.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.adminForm.resources
+C:\Users\mende\Desktop\SE Project\SE Project\bin\Debug\students.mdf
+C:\Users\mende\Desktop\SE Project\SE Project\bin\Debug\students_log.ldf
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.softEngForm.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.mlForm.resources
+C:\Users\mende\Desktop\SE Project\SE Project\obj\Debug\SE_Project.Form11.resources
